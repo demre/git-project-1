@@ -1,9 +1,0 @@
-	
-	`git config`: configuration settings 
-		      - git config --global user.name "demre"
-		      - git config --global user.email "emredavaz@gmail.com"
-		      - git config --list   
-	
-	`git log`: Shows the log (history) of our commits 
-		      - git log (all details)
-		      - git log --oneline   (one line version) 
