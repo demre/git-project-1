@@ -1,0 +1,5 @@
+	
+	`git config`: configuration settings 
+		      - git config --global user.name "demre"
+		      - git config --global user.email "emredavaz@gmail.com"
+		      - git config --list   
